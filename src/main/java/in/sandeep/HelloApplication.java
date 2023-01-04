@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloApplication {
 
 
+      "sandeep patil"
       private Integer Amount=500;
 
     public String name="Sachin Tendulkar";
