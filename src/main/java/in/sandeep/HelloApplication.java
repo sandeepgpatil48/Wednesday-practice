@@ -7,10 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloApplication {
 
 
-      "sandeep patil"
+      "Hello dear"
+      "sandeep patil from Surat.."
       private Integer Amount=500;
 
-    public String name="Sachin Tendulkar";
+    public String name="Sachin Tendulkar from mumbai";
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloApplication.class, args);
